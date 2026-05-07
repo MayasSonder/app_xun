@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st 
 df = pd.read_csv('users.csv')
 
-st.title('Sidentifier')
+st.title('S'identifier')
 username = st.text_input('Entre ton identifiant')
 password = st.text_input('Entre un mot de passe', type="password")
 boutton = st.button('Login')
