@@ -1,5 +1,7 @@
 import pandas as pd 
 import streamlit as st 
+if 'username' not in st.session_state:
+    st.switch_page("app.py")
 df = pd.read_csv('users.csv')
 
 bouttond = st.sidebar.button('Déconnexion')
