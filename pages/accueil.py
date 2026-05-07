@@ -16,4 +16,4 @@ st.sidebar.page_link("pages/accueil.py", label="Accueil")
 st.sidebar.page_link("pages/photos.py", label="Les photos de mon chat")
 
 st.title('Bienvenue sur ma page')
-st.image('https://i.pinimg.com/originals/1c/69/43/1c6943c372187ed186416b895f4eb06c.gif')
+st.image('https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MThjZ3E3ZWZjcHdubXlyZjkxN3h2MWFqM3FhanUxNWJ1anR1aHVydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6uOKby3tWy4yXwTa5H/giphy.gif')
